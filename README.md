@@ -10,4 +10,4 @@ a preliminary programming contest for ICPC Asia Jakarta Regional.
 ## Notes
 - These solutions were written under contest time constraints.
 - Some codes may not be fully optimized or cleaned up after the contest.
-- Repository is meant for learning and reference purposes only.
+- Repository is meant for learning and reference purposes only
